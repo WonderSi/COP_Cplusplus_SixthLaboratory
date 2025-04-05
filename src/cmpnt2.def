@@ -1,0 +1,10 @@
+
+;
+; cmpnt2 module-definition file
+;
+
+LIBRARY         cmpnt2.dll
+DESCRIPTION     '2025 FIT-231 Introduction to COM'
+
+EXPORTS
+                CreateInstance @1	PRIVATE

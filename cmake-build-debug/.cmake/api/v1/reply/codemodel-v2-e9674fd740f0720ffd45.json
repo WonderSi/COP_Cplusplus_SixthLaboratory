@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "COP_Cplusplus_SixthLaboratory",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "client1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-client1-Debug-268b65f3113a3805b7ae.json",
+					"name" : "client1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "client2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-client2-Debug-9363a9c0754ebb56ab53.json",
+					"name" : "client2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "client3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-client3-Debug-7ece01f6e9b1b5111aaf.json",
+					"name" : "client3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cmpnt1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cmpnt1-Debug-dcabd62348703bc78a24.json",
+					"name" : "cmpnt1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cmpnt2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cmpnt2-Debug-45c9e88b9ce4214bbbf0.json",
+					"name" : "cmpnt2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cmpnt3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cmpnt3-Debug-73cd697f722f8d3a9e07.json",
+					"name" : "cmpnt3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/011ko/CLionProjects/COP_Cplusplus_SixthLaboratory/cmake-build-debug",
+		"source" : "C:/Users/011ko/CLionProjects/COP_Cplusplus_SixthLaboratory"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
